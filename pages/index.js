@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Next js 배포 연습입니다
+          Next js 배포 연습입니다1221
         </h1>
 
         <p className={styles.description}>
